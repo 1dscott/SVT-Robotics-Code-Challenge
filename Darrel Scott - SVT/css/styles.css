@@ -1,0 +1,13 @@
+.myTable
+{	
+  	margin: auto;
+ 	display: block;
+	padding-top: 5%;
+	height: 100%;
+	width: 100%;
+	display: block;
+	font-family: 'Cinzel', serif;
+	text-decoration: none;
+	font-size: 18px;
+	color: black;
+}
